@@ -2385,7 +2385,7 @@ input, select, textarea {
 			padding: 0.35em 0 0 3.5em;
 			position: relative;
 			vertical-align: top;
-			width: 48%;
+			width: 24%;
 		}
 
 			ul.feature-icons li:before {
@@ -3314,3 +3314,12 @@ input, select, textarea {
 			}
 
 	}
+
+	.devicon-git-plain {
+  max-width: 8em;
+}
+
+/* if you want to change the original color */
+.devicon-git-plain path {
+  fill: #4acaa8;
+}
