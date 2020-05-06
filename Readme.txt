@@ -6,8 +6,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Images:
+		Photo by Miltiadis on Unsplash
 
 	Icons:
 		Font Awesome (fontawesome.io)
