@@ -11,6 +11,7 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		Favicon by John Sorrentino
 
 	Other:
 		jQuery (jquery.com)
