@@ -1,6 +1,6 @@
 ## Portfolio for Ezra Schrage
 
-###[Link to live site](http://ezraschrage.com/)
+### [Link to live site](http://ezraschrage.com/)
 
 Template is "Read Only" by HTML5 UP
 html5up.net | @ajlkn
